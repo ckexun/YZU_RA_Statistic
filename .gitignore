@@ -1,0 +1,11 @@
+# For Test
+test*
+
+# Excel File
+*.xlsx
+*.xls
+
+# ClassInof File
+config.ini
+
+data/*
