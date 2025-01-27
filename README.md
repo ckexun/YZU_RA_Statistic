@@ -1,7 +1,10 @@
 # Yuan Ze University RA Statistic 
->Update time: 2025-01-21
+>Update time: 2025-01-27
 
 ---
+
+## Environment
+![Python Badge](https://img.shields.io/badge/Python-3.9.21-blue)
 
 ## Requirements
 ```bash
